@@ -5,12 +5,13 @@
 
 main()
 {
-	int a,b,c;
+	int a,b,c,module2_a;
 	clrscr();
 	a=10;
 	b=20;
 	c=a+b;
 	e=a*b;
+	module2_a=200;
 	printf("the result is = %d",c);
 getche();
 }
