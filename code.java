@@ -4,12 +4,14 @@
 
 main()
 {
-	int a,b,c;
+	int a,b,e,d;
 	clrscr();
 	a=10;
 	b=20;
         e=a*b;
-	printf("the result is = %d",c);
+	d=a+b,
+	printf("the result is = %d",e);
+	printf("the result is = %d",d);
 getche();
 }
 
