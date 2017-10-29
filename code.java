@@ -8,8 +8,7 @@ main()
 	clrscr();
 	a=10;
 	b=20;
-
-	e=a*b;
+        e=a*b;
 	printf("the result is = %d",c);
 getche();
 }
