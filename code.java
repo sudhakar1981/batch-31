@@ -9,6 +9,7 @@ main()
 	clrscr();
 	a=10;
 	b=20;
+	c=30
 	c=a+b;
 	e=a*b;
 	module2_a=200;
